@@ -1,4 +1,4 @@
-# halos_ml_prediction
+# Predicting galaxy properties from dark matter-only simulations using machine learning
 
 This is my project for ISYE 6740 Fall 2020.
 
